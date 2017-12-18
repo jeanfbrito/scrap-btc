@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "scrap-btc",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.29.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
